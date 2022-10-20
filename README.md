@@ -1,3 +1,14 @@
+![image](https://user-images.githubusercontent.com/105709281/197001773-6761bd06-f05d-4eb4-9b70-7b7f6af847d9.png)
+
+# Anggota Kelompok 8:
+Muhamad Daffa Nur Sejati (G6401201015)
+
+Ahmad Ardra Damarjati (G6401201052)
+
+Aqnes Theodora (G6401201070)
+
+Ihsan Maulana Ilmi (G6401201175)
+
 # Sekilas Tentang
 
 Chamilo adalah salah satu Learning Management System yang bersifat Open Source, menitik beratkan pada pembangunan portal E-learning. Chamilo sendiri memiliki fungsi yang sama dengan aplikasi E-Learning lainnya seperti Moodle, Dokeos, A Tutor, eFront  dan sebagainya.
