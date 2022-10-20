@@ -20,4 +20,17 @@ Langkah Instalasi:
 
 # Cara Pemakaian
 1. Tampilan Aplikasi Web dan fungsi-fungsi utama
+<img width="835" alt="Screen Shot 2022-10-20 at 22 21 51" src="https://user-images.githubusercontent.com/105709281/196990394-437a9731-37ba-46a0-97d9-f967a390d052.png">
+Terdapat my courses yang dapat berisi course apa saja yang diambil oleh user dan course dapat ditambahkan melalui bagian administration.
+ 
+<img width="783" alt="Screen Shot 2022-10-20 at 22 22 57" src="https://user-images.githubusercontent.com/105709281/196990635-7eba19a9-4576-47d3-8548-2de070c4ccf5.png">
+Terdapat personal agenda yang berisi kalender dan dapat menambahkan reminder-reminder di hari tertentu.
 
+<img width="774" alt="Screen Shot 2022-10-20 at 22 23 38" src="https://user-images.githubusercontent.com/105709281/196990799-5a3812bf-17dc-48e8-ad61-bc7f6bed0eea.png">
+Terdapat social network dimana user dapat mengupload post dan dapat di comment oleh user lain sehingga user dapat berkomunikasi satu dengan yang lain.
+
+<img width="793" alt="Screen Shot 2022-10-20 at 22 24 01" src="https://user-images.githubusercontent.com/105709281/196990881-30a3b6e5-2da7-40fa-a0ba-f1e5f053c5a2.png">
+Terdapat bagian administration yang berisi users untuk mengelola user seperti melihat user list, menambah user, export dan import user list, edit user, dan lain-lain. Terdapat juga courses untuk mengelola course-course seperti melihat list course, membuat course baru, export dan import user, membuat kategori course, menambahkan user to course, mengimpor list user, dan lain-lain. Terdapat juga bagian portal dan course sessions.
+
+# Pembahasan
+Kelebihan dari Chamilo dengan aplikasi E-Learning lainnya adalah Chamilo merupakan software open source, UI/UX yang dimiliki oleh Chamilo lebih mudah dipahami, Chamilo juga dapat diakses dengan gratis. Kekurangan dari Chamilo adalah UI yang kurang menarik. Perbedaan antara Chamilo dengan Moodle adalah Moodle merupakan e-learning yang berbayar, sedangkan Chamilo tidak. Perbedaan lain adalah Chamilo dapat digunakan oleh pemula karena lebih mudah untuk diakses, sedangkan Moodle agak lebih sulit bagi pemula.
